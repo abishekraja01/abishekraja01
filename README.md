@@ -2,8 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Java and Frontend Development
 - 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me?  Email ID : abishekraja0108@gmail.com
-- 😄 Pronouns: ...
+- 📫 Reach me through my linkedin account - https://www.linkedin.com/in/abishek-raja-60b146239/
 - ⚡ Fun fact: I am a F1 fan
 
 <!---
