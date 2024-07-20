@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Java and Frontend Development
 - 📫 Reach me through my linkedin account - https://www.linkedin.com/in/abishek-raja-60b146239/
--     Portfolio - https://abishekraja-portfolio.netlify.app/
+-  Portfolio - https://abishekraja-portfolio.netlify.app/
 - ⚡ Fun fact: I am a F1 fan
 
 <!---
