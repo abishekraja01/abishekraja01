@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java and Frontend Development
 - 📫 Reach me through my linkedin account - https://www.linkedin.com/in/abishek-raja-60b146239/
 - :computer: Portfolio - https://abishekraja-portfolio.netlify.app/
-- :email: abishekraja0108@gmail.com
+- :email: Email - abishekraja0108@gmail.com
 - ⚡ Fun fact: I am a F1 fan
 
 <!---
